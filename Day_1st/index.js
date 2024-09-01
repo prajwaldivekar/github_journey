@@ -7,3 +7,5 @@
 //  - git diff --> helps to see, compare and understand the changes in program
 //  - git add . --> add all the files
 //  
+
+console.log("adding");
