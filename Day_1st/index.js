@@ -3,7 +3,7 @@
 // *Installatin of Git
 // *Some basic Command
 //  - Git init -->to initialize git to an perticular folder 
-//  - git add {file name}--> to track the file
+//  - git add {file name}--> to track the file // send file to staging area
 //  - git diff --> helps to see, compare and understand the changes in program
 //  - git add . --> add all the files
 //  

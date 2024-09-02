@@ -1,7 +1,11 @@
 // In Day 2nd I Lraen following
 
 // git blame {file name} --> it show changies line by line
-// eg:- 6eac78 (prajwaldivekar 2024-09-02 18:23 +0530  1) const age 24;
+//   eg:- 6eac78 (prajwaldivekar 2024-09-02 18:23 +0530  1) const age 24;
+
+
+// git status --> show which files is modifed
+
 
 function add (a,b){
     return a+b
