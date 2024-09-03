@@ -6,3 +6,8 @@
 function add (a,num2){
     return a + num1
 }
+
+console.log("git revert understanding");
+
+
+
