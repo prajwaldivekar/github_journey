@@ -3,11 +3,9 @@
 // git reset --hard ORIG_HEAD
 //  git reset --head 9251dc68
 
-function add (a,num2){
-    return a + num1
+function sub(a,b){
+    return a-b
 }
-
-console.log("git revert understanding");
 
 
 
